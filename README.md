@@ -67,16 +67,16 @@ src/
 
 1. **Clone the Repository**
 
-\`\`\`bash
-git clone https://github.com/YOUR_USERNAME/library-management-api.git
-cd library-management-api
-\`\`\`
+```bash
+git clone https://github.com/Araman99/library-api
+cd library-api
+```
 
 2. **Install Dependencies**
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 3. **Start MongoDB**
 
@@ -84,9 +84,9 @@ Ensure MongoDB is running locally or update the connection string in \`src/app.t
 
 4. **Run the Server**
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 App runs on \`http://localhost:5000\`
 
@@ -98,7 +98,7 @@ App runs on \`http://localhost:5000\`
 
 ## 🎥 Video Walkthrough
 
-[📺 Watch here](https://your-public-video-link.com)
+[📺 Watch here](https://araman.me/videos/explanation.mp4)
 
 ## 🤝 Contributing
 
